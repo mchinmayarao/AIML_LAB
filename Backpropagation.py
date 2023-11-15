@@ -60,6 +60,7 @@ for i in range(epoch):
     #print("Predicted Output: \n" ,output)
     #print ("-----------Epoch-", i+1, "Ends----------\n")
         
+
 print("Input: \n" + str(X)) 
 print("Actual Output: \n" + str(y))
 print("Predicted Output: \n" ,output)
